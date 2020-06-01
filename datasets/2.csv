@@ -1,0 +1,276 @@
+GEMEINDE-SCHLUESSEL;ART;NAME;PLZ;ORT;AMTS-SCHLUESSEL;AMT-NAME
+12 0 60 012 06;Gemeinde;Althüttendorf;16247;Althüttendorf;12 0 60 000 06;Joachimsthal (Schorfheide)
+12 0 60 024 03;Stadt;Biesenthal;16359;Biesenthal;12 0 60 000 03;Biesenthal-Barnim
+12 0 60 034 03;Gemeinde;Breydin;16230;Breydin;12 0 60 000 03;Biesenthal-Barnim
+12 0 60 036 11;Gemeinde;Britz;16230;Britz;12 0 60 000 11;Britz-Chorin-Oderberg
+12 0 60 045 11;Gemeinde;Chorin;16230;Chorin;12 0 60 000 11;Britz-Chorin-Oderberg
+12 0 60 068 06;Gemeinde;Friedrichswalde;16247;Friedrichswalde;12 0 60 000 06;Joachimsthal (Schorfheide)
+12 0 60 092 11;Gemeinde;Hohenfinow;16248;Hohenfinow;12 0 60 000 11;Britz-Chorin-Oderberg
+12 0 60 100 06;Stadt;Joachimsthal;16247;Joachimsthal;12 0 60 000 06;Joachimsthal (Schorfheide)
+12 0 60 128 11;Gemeinde;Liepe;16248;Liepe;12 0 60 000 11;Britz-Chorin-Oderberg
+12 0 60 149 11;Gemeinde;Lunow-Stolzenhagen;16248;Lunow-Stolzenhagen;12 0 60 000 11;Britz-Chorin-Oderberg
+12 0 60 154 03;Gemeinde;Marienwerder;16348;Marienwerder;12 0 60 000 03;Biesenthal-Barnim
+12 0 60 161 03;Gemeinde;Melchow;16230;Melchow;12 0 60 000 03;Biesenthal-Barnim
+12 0 60 172 11;Gemeinde;Niederfinow;16248;Niederfinow;12 0 60 000 11;Britz-Chorin-Oderberg
+12 0 60 176 11;Stadt;Oderberg;16248;Oderberg;12 0 60 000 11;Britz-Chorin-Oderberg
+12 0 60 185 11;Gemeinde;Parsteinsee;16248;Parsteinsee;12 0 60 000 11;Britz-Chorin-Oderberg
+12 0 60 192 03;Gemeinde;Rüdnitz;16321;Rüdnitz;12 0 60 000 03;Biesenthal-Barnim
+12 0 60 250 03;Gemeinde;Sydower Fließ;16230;Sydower Fließ;12 0 60 000 03;Biesenthal-Barnim
+12 0 60 296 06;Gemeinde;Ziethen;16247;Ziethen;12 0 60 000 06;Joachimsthal (Schorfheide)
+12 0 61 005 13;Gemeinde;Alt Zauche-Wußwerk;15913;Alt Zauche-Wußwerk;12 0 61 000 13;Lieberose/Oberspreewald
+12 0 61 017 14;Gemeinde;Bersteland;15910;Bersteland;12 0 61 000 14;Unterspreewald
+12 0 61 061 13;Gemeinde;Byhleguhre-Byhlen;15913;Byhleguhre-Byhlen;12 0 61 000 13;Lieberose/Oberspreewald
+12 0 61 097 14;Gemeinde;Drahnsdorf;15938;Drahnsdorf;12 0 61 000 14;Unterspreewald
+12 0 61 164 14;Stadt;Golßen;15938;Golßen;12 0 61 000 14;Unterspreewald
+12 0 61 192 08;Gemeinde;Groß Köris;15746;Groß Köris;12 0 61 000 08;Schenkenländchen
+12 0 61 216 08;Gemeinde;Halbe;15757;Halbe;12 0 61 000 08;Schenkenländchen
+12 0 61 224 13;Gemeinde;Jamlitz;15868;Jamlitz;12 0 61 000 13;Lieberose/Oberspreewald
+12 0 61 244 14;Gemeinde;Kasel-Golzig;15938;Kasel-Golzig;12 0 61 000 14;Unterspreewald
+12 0 61 265 14;Gemeinde;Krausnick-Groß Wasserburg;15910;Krausnick-Groß Wasserburg;12 0 61 000 14;Unterspreewald
+12 0 61 308 13;Stadt;Lieberose;15868;Lieberose;12 0 61 000 13;Lieberose/Oberspreewald
+12 0 61 328 08;Stadt;Märkisch Buchholz;15748;Märkisch Buchholz;12 0 61 000 08;Schenkenländchen
+12 0 61 344 08;Gemeinde;Münchehofe;15748;Münchehofe;12 0 61 000 08;Schenkenländchen
+12 0 61 352 13;Gemeinde;Neu Zauche;15913;Neu Zauche;12 0 61 000 13;Lieberose/Oberspreewald
+12 0 61 405 14;Gemeinde;Rietzneuendorf-Staakow;15910;Rietzneuendorf-Staakow;12 0 61 000 14;Unterspreewald
+12 0 61 428 14;Gemeinde;Schlepzig;15910;Schlepzig;12 0 61 000 14;Unterspreewald
+12 0 61 435 14;Gemeinde;Schönwald;15910;Schönwald;12 0 61 000 14;Unterspreewald
+12 0 61 448 08;Gemeinde;Schwerin;15755;Schwerin;12 0 61 000 08;Schenkenländchen
+12 0 61 450 13;Gemeinde;Schwielochsee;15913;Schwielochsee;12 0 61 000 13;Lieberose/Oberspreewald
+12 0 61 470 13;Gemeinde;Spreewaldheide;15913;Spreewaldheide;12 0 61 000 13;Lieberose/Oberspreewald
+12 0 61 471 14;Gemeinde;Steinreich;15938;Steinreich;12 0 61 000 14;Unterspreewald
+12 0 61 476 13;Gemeinde;Straupitz (Spreewald);15913;Straupitz (Spreewald);12 0 61 000 13;Lieberose/Oberspreewald
+12 0 61 492 08;Stadt;Teupitz;15755;Teupitz;12 0 61 000 08;Schenkenländchen
+12 0 61 510 14;Gemeinde;Unterspreewald;15910;Unterspreewald;12 0 61 000 14;Unterspreewald
+12 0 62 024 31;Ortsgemeinde / Stadt;Bad Liebenwerda;04924;Bad Liebenwerda;12 0 61 000 14;Unterspreewald
+12 0 62 088 05;Gemeinde;Crinitz;03246;Crinitz;12 0 62 000 05;Kleine Elster (Niederlausitz)
+12 0 62 128 31;Ortsgemeinde / Stadt;Falkenberg/Elster;04895;Falkenberg/Elster;12 0 62 000 05;Kleine Elster (Niederlausitz)
+12 0 62 134 09;Gemeinde;Fichtwald;04936;Fichtwald;12 0 62 000 09;Schlieben
+12 0 62 177 07;Gemeinde;Gorden-Staupitz;03238;Gorden-Staupitz;12 0 62 000 07;Plessa
+12 0 62 196 11;Gemeinde;Gröden;04932;Gröden;12 0 62 000 11;Schradenland
+12 0 62 208 11;Gemeinde;Großthiemig;04932;Großthiemig;12 0 62 000 11;Schradenland
+12 0 62 219 02;Gemeinde;Heideland;03238;Heideland;12 0 62 000 02;Elsterland
+12 0 62 232 11;Gemeinde;Hirschfeld;04932;Hirschfeld;12 0 62 000 11;Schradenland
+12 0 62 237 09;Gemeinde;Hohenbucko;04936;Hohenbucko;12 0 62 000 09;Schlieben
+12 0 62 240 07;Gemeinde;Hohenleipisch;04934;Hohenleipisch;12 0 62 000 07;Plessa
+12 0 62 282 09;Gemeinde;Kremitzaue;04936;Kremitzaue;12 0 62 000 09;Schlieben
+12 0 62 289 09;Gemeinde;Lebusa;04936;Lebusa;12 0 62 000 09;Schlieben
+12 0 62 293 05;Gemeinde;Lichterfeld-Schacksdorf;03238;Lichterfeld-Schacksdorf;12 0 62 000 05;Kleine Elster (Niederlausitz)
+12 0 62 333 05;Gemeinde;Massen-Niederlausitz;03238;Massen-Niederlausitz;12 0 62 000 05;Kleine Elster (Niederlausitz)
+12 0 62 336 11;Gemeinde;Merzdorf;04932;Merzdorf;12 0 62 000 11;Schradenland
+12 0 62 341 31;Ortsgemeinde / Stadt;Mühlberg/Elbe;04931;Mühlberg/Elbe;12 0 62 000 11;Schradenland
+12 0 62 372 07;Gemeinde;Plessa;04928;Plessa;12 0 62 000 07;Plessa
+12 0 62 417 02;Gemeinde;Rückersdorf;03238;Rückersdorf;12 0 62 000 02;Elsterland
+12 0 62 425 05;Gemeinde;Sallgast;03238;Sallgast;12 0 62 000 05;Kleine Elster (Niederlausitz)
+12 0 62 440 02;Gemeinde;Schilda;03253;Schilda;12 0 62 000 02;Elsterland
+12 0 62 445 09;Stadt;Schlieben;04936;Schlieben;12 0 62 000 09;Schlieben
+12 0 62 453 02;Gemeinde;Schönborn;03253;Schönborn;12 0 62 000 02;Elsterland
+12 0 62 464 07;Gemeinde;Schraden;04928;Schraden;12 0 62 000 07;Plessa
+12 0 62 492 02;Gemeinde;Tröbitz;03253;Tröbitz;12 0 62 000 02;Elsterland
+12 0 62 500 31;Ortsgemeinde / Stadt;Uebigau-Wahrenbrück;04938;Uebigau-Wahrenbrück;12 0 62 000 02;Elsterland
+12 0 63 088 02;Stadt;Friesack;14662;Friesack;12 0 63 000 02;Friesack
+12 0 63 094 09;Gemeinde;Gollenberg;14728;Gollenberg;12 0 63 000 09;Rhinow
+12 0 63 112 09;Gemeinde;Großderschau;16845;Großderschau;12 0 63 000 09;Rhinow
+12 0 63 134 09;Gemeinde;Havelaue;14715;Havelaue;12 0 63 000 09;Rhinow
+12 0 63 142 02;Gemeinde;Wiesenaue;14662;Wiesenaue;12 0 63 000 02;Friesack
+12 0 63 161 09;Gemeinde;Kleßen-Görne;14728;Kleßen-Görne;12 0 63 000 09;Rhinow
+12 0 63 165 06;Gemeinde;Kotzen;14715;Kotzen;12 0 63 000 06;Nennhausen
+12 0 63 186 06;Gemeinde;Märkisch Luch;14715;Märkisch Luch;12 0 63 000 06;Nennhausen
+12 0 63 202 02;Gemeinde;Mühlenberge;14662;Mühlenberge;12 0 63 000 02;Friesack
+12 0 63 212 06;Gemeinde;Nennhausen;14715;Nennhausen;12 0 63 000 06;Nennhausen
+12 0 63 228 02;Gemeinde;Paulinenaue;14641;Paulinenaue;12 0 63 000 02;Friesack
+12 0 63 240 02;Gemeinde;Pessin;14641;Pessin;12 0 63 000 02;Friesack
+12 0 63 256 02;Gemeinde;Retzow;14641;Retzow;12 0 63 000 02;Friesack
+12 0 63 260 09;Stadt;Rhinow;14728;Rhinow;12 0 63 000 09;Rhinow
+12 0 63 274 09;Gemeinde;Seeblick;14715;Seeblick;12 0 63 000 09;Rhinow
+12 0 63 293 06;Gemeinde;Stechow-Ferchesar;14715;Stechow-Ferchesar;12 0 63 000 06;Nennhausen
+12 0 64 009 04;Gemeinde;Alt Tucheband;15328;Alt Tucheband;12 0 64 000 04;Golzow
+12 0 64 053 03;Gemeinde;Beiersdorf-Freudenberg;16259;Beiersdorf-Freudenberg;12 0 64 000 03;Falkenberg-Höhe
+12 0 64 057 04;Gemeinde;Bleyen-Genschmar;15328;Bleyen-Genschmar;12 0 64 000 04;Golzow
+12 0 64 061 14;Gemeinde;Bliesdorf;16269;Bliesdorf;12 0 64 000 14;Barnim-Oderbruch
+12 0 64 084 08;Stadt;Buckow (Märkische Schweiz);15377;Buckow (Märkische Schweiz);12 0 64 000 08;Märkische Schweiz
+12 0 64 125 03;Gemeinde;Falkenberg;16259;Falkenberg;12 0 64 000 03;Falkenberg-Höhe
+12 0 64 128 12;Gemeinde;Falkenhagen (Mark);15306;Falkenhagen (Mark);12 0 64 000 12;Seelow-Land
+12 0 64 130 12;Gemeinde;Fichtenhöhe;15306;Fichtenhöhe;12 0 64 000 12;Seelow-Land
+12 0 64 153 08;Gemeinde;Garzau-Garzin;15345;Garzau-Garzin;12 0 64 000 08;Märkische Schweiz
+12 0 64 172 04;Gemeinde;Golzow;15328;Golzow;12 0 64 000 04;Golzow
+12 0 64 190 10;Gemeinde;Gusow-Platkow;15306;Gusow-Platkow;12 0 64 000 10;Neuhardenberg
+12 0 64 205 03;Gemeinde;Heckelberg-Brunow;16259;Heckelberg-Brunow;12 0 64 000 03;Falkenberg-Höhe
+12 0 64 222 03;Gemeinde;Höhenland;16259;Höhenland;12 0 64 000 03;Falkenberg-Höhe
+12 0 64 266 04;Gemeinde;Küstriner Vorland;15328;Küstriner Vorland;12 0 64 000 04;Golzow
+12 0 64 268 06;Stadt;Lebus;15326;Lebus;12 0 64 000 06;Lebus
+12 0 64 288 12;Gemeinde;Lietzen;15306;Lietzen;12 0 64 000 12;Seelow-Land
+12 0 64 290 12;Gemeinde;Lindendorf;15306;Lindendorf;12 0 64 000 12;Seelow-Land
+12 0 64 303 10;Gemeinde;Märkische Höhe;15377;Märkische Höhe;12 0 64 000 10;Neuhardenberg
+12 0 64 340 10;Gemeinde;Neuhardenberg;15320;Neuhardenberg;12 0 64 000 10;Neuhardenberg
+12 0 64 349 14;Gemeinde;Neulewin;16259;Neulewin;12 0 64 000 14;Barnim-Oderbruch
+12 0 64 365 14;Gemeinde;Neutrebbin;15320;Neutrebbin;12 0 64 000 14;Barnim-Oderbruch
+12 0 64 370 08;Gemeinde;Oberbarnim;15377 ;Oberbarnim;12 0 64 000 08;Märkische Schweiz
+12 0 64 371 14;Gemeinde;Oderaue;16259;Oderaue;12 0 64 000 14;Barnim-Oderbruch
+12 0 64 388 06;Gemeinde;Podelzig;15326;Podelzig;12 0 64 000 06;Lebus
+12 0 64 393 14;Gemeinde;Prötzel;15345;Prötzel;12 0 64 000 14;Barnim-Oderbruch
+12 0 64 408 08;Gemeinde;Rehfelde;15345;Rehfelde;12 0 64 000 08;Märkische Schweiz
+12 0 64 417 14;Gemeinde;Reichenow-Möglin;15345;Reichenow-Möglin;12 0 64 000 14;Barnim-Oderbruch
+12 0 64 420 06;Gemeinde;Reitwein;15328;Reitwein;12 0 64 000 06;Lebus
+12 0 64 480 06;Gemeinde;Treplin;15236;Treplin;12 0 64 000 06;Lebus
+12 0 64 482 12;Gemeinde;Vierlinden;15306;Vierlinden;12 0 64 000 12;Seelow-Land
+12 0 64 484 08;Gemeinde;Waldsieversdorf;15377;Waldsieversdorf;12 0 64 000 08;Märkische Schweiz
+12 0 64 538 04;Gemeinde;Zechin;15328;Zechin;12 0 64 000 04;Golzow
+12 0 64 539 06;Gemeinde;Zeschdorf;15326;Zeschdorf;12 0 64 000 06;Lebus
+12 0 65 100 02;Stadt;Gransee;16775;Gransee;12 0 65 000 02;Gransee und Gemeinden
+12 0 65 117 02;Gemeinde;Großwoltersdorf;16775;Großwoltersdorf;12 0 65 000 02;Gransee und Gemeinden
+12 0 65 276 02;Gemeinde;Schönermark;16775;Schönermark;12 0 65 000 02;Gransee und Gemeinden
+12 0 65 301 02;Gemeinde;Sonnenberg;16775;Sonnenberg;12 0 65 000 02;Gransee und Gemeinden
+12 0 65 310 02;Gemeinde;Stechlin;16775;Stechlin;12 0 65 000 02;Gransee und Gemeinden
+12 0 66 008 01;Gemeinde;Altdöbern;03229;Altdöbern;12 0 66 000 01;Altdöbern
+12 0 66 041 01;Gemeinde;Bronkow;03205;Bronkow;12 0 66 000 01;Altdöbern
+12 0 66 064 06;Gemeinde;Frauendorf;01945;Frauendorf;12 0 66 000 06;Ortrand
+12 0 66 104 06;Gemeinde;Großkmehlen;01990;Großkmehlen;12 0 66 000 06;Ortrand
+12 0 66 116 07;Gemeinde;Grünewald;01945;Grünewald;12 0 66 000 07;Ruhland
+12 0 66 120 07;Gemeinde;Guteborn;01945;Guteborn;12 0 66 000 07;Ruhland
+12 0 66 124 07;Gemeinde;Hermsdorf;01945;Hermsdorf;12 0 66 000 07;Ruhland
+12 0 66 132 07;Gemeinde;Hohenbocka;01945;Hohenbocka;12 0 66 000 07;Ruhland
+12 0 66 168 06;Gemeinde;Kroppen;01945;Kroppen;12 0 66 000 06;Ortrand
+12 0 66 188 06;Gemeinde;Lindenau;01945;Lindenau;12 0 66 000 06;Ortrand
+12 0 66 202 01;Gemeinde;Luckaitztal;03229;Luckaitztal;12 0 66 000 01;Altdöbern
+12 0 66 226 01;Gemeinde;Neu-Seeland;03103;Neu-Seeland;12 0 66 000 01;Altdöbern
+12 0 66 228 01;Gemeinde;Neupetershain;03103;Neupetershain;12 0 66 000 01;Altdöbern
+12 0 66 240 06;Stadt;Ortrand;01990;Ortrand;12 0 66 000 06;Ortrand
+12 0 66 272 07;Stadt;Ruhland;01945;Ruhland;12 0 66 000 07;Ruhland
+12 0 66 292 07;Gemeinde;Schwarzbach;01945;Schwarzbach;12 0 66 000 07;Ruhland
+12 0 66 316 06;Gemeinde;Tettau;01945;Tettau;12 0 66 000 06;Ortrand
+12 0 67 024 07;Gemeinde;Bad Saarow;15526;Bad Saarow;12 0 67 000 07;Scharmützelsee
+12 0 67 040 06;Gemeinde;Berkenbrück;15518;Berkenbrück;12 0 67 000 06;Odervorland
+12 0 67 072 06;Gemeinde;Briesen (Mark);15518;Briesen (Mark);12 0 67 000 06;Odervorland
+12 0 67 076 01;Gemeinde;Brieskow-Finkenheerd;15259;Brieskow-Finkenheerd;12 0 67 000 01;Brieskow-Finkenheerd
+12 0 67 112 07;Gemeinde;Diensdorf-Radlow;15864;Diensdorf-Radlow;12 0 67 000 07;Scharmützelsee
+12 0 67 173 09;Gemeinde;Gosen-Neu Zittau;15537;Gosen-Neu Zittau;12 0 67 000 09;Spreenhagen
+12 0 67 180 01;Gemeinde;Groß Lindow;15295;Groß Lindow;12 0 67 000 01;Brieskow-Finkenheerd
+12 0 67 205 08;Gemeinde;Grunow-Dammendorf;15299;Grunow-Dammendorf;12 0 67 000 08;Schlaubetal
+12 0 67 237 06;Gemeinde;Jacobsdorf;15236;Jacobsdorf;12 0 67 000 06;Odervorland
+12 0 67 288 07;Gemeinde;Langewahl;15518;Langewahl;12 0 67 000 07;Scharmützelsee
+12 0 67 292 05;Gemeinde;Lawitz;15898;Lawitz;12 0 67 000 05;Neuzelle
+12 0 67 324 08;Gemeinde;Mixdorf;15299;Mixdorf;12 0 67 000 08;Schlaubetal
+12 0 67 336 08;Stadt;Müllrose;15299;Müllrose;12 0 67 000 08;Schlaubetal
+12 0 67 338 05;Gemeinde;Neißemünde;15898;Neißemünde;12 0 67 000 05;Neuzelle
+12 0 67 357 05;Gemeinde;Neuzelle;15898;Neuzelle;12 0 67 000 05;Neuzelle
+12 0 67 397 08;Gemeinde;Ragow-Merz;15848;Ragow-Merz;12 0 67 000 08;Schlaubetal
+12 0 67 408 09;Gemeinde;Rauen;15518;Rauen;12 0 67 000 09;Spreenhagen
+12 0 67 413 07;Gemeinde;Reichenwalde;15526;Reichenwalde;12 0 67 000 07;Scharmützelsee
+12 0 67 438 08;Gemeinde;Schlaubetal;15890;Schlaubetal;12 0 67 000 08;Schlaubetal
+12 0 67 458 08;Gemeinde;Siehdichum;15890;Siehdichum;12 0 67 000 08;Schlaubetal
+12 0 67 469 09;Gemeinde;Spreenhagen;15528;Spreenhagen;12 0 67 000 09;Spreenhagen
+12 0 67 473 06;Gemeinde;Steinhöfel;15518;Steinhöfel;12 0 67 000 06;Odervorland
+12 0 67 508 01;Gemeinde;Vogelsang;15890;Vogelsang;12 0 67 000 01;Brieskow-Finkenheerd
+12 0 67 520 07;Gemeinde;Wendisch Rietz;15864;Wendisch Rietz;12 0 67 000 07;Scharmützelsee
+12 0 67 528 01;Gemeinde;Wiesenau;15295;Wiesenau;12 0 67 000 01;Brieskow-Finkenheerd
+12 0 67 552 01;Gemeinde;Ziltendorf;15295;Ziltendorf;12 0 67 000 01;Brieskow-Finkenheerd
+12 0 68 052 05;Gemeinde;Breddin;16845;Breddin;12 0 68 000 05;Neustadt (Dosse)
+12 0 68 072 07;Gemeinde;Dabergotz;16818;Dabergotz;12 0 68 000 07;Temnitz
+12 0 68 109 05;Gemeinde;Dreetz;16845;Dreetz;12 0 68 000 05;Neustadt (Dosse)
+12 0 68 188 04;Gemeinde;Herzberg (Mark);16835;Herzberg (Mark);12 0 68 000 04;Lindow (Mark)
+12 0 68 280 04;Stadt;Lindow (Mark);16835;Lindow (Mark);12 0 68 000 04;Lindow (Mark)
+12 0 68 306 07;Gemeinde;Märkisch Linden;16818;Märkisch Linden;12 0 68 000 07;Temnitz
+12 0 68 324 05;Stadt;Neustadt (Dosse);16845;Neustadt (Dosse);12 0 68 000 05;Neustadt (Dosse)
+12 0 68 372 04;Gemeinde;Rüthnick;16835;Rüthnick;12 0 68 000 04;Lindow (Mark)
+12 0 68 409 05;Gemeinde;Sieversdorf-Hohenofen;16845;Sieversdorf-Hohenofen;12 0 68 000 05;Neustadt (Dosse)
+12 0 68 413 07;Gemeinde;Storbeck-Frankendorf;16818;Storbeck-Frankendorf;12 0 68 000 07;Temnitz
+12 0 68 417 05;Gemeinde;Stüdenitz-Schönermark;16845;Stüdenitz-Schönermark;12 0 68 000 05;Neustadt (Dosse)
+12 0 68 425 07;Gemeinde;Temnitzquell;16818;Temnitzquell;12 0 68 000 07;Temnitz
+12 0 68 426 07;Gemeinde;Temnitztal;16845;Temnitztal;12 0 68 000 07;Temnitz
+12 0 68 437 04;Gemeinde;Vielitzsee;16835;Vielitzsee;12 0 68 000 04;Lindow (Mark)
+12 0 68 452 07;Gemeinde;Walsleben;16818;Walsleben;12 0 68 000 07;Temnitz
+12 0 68 501 05;Gemeinde;Zernitz-Lohm;16845;Zernitz-Lohm;12 0 68 000 05;Neustadt (Dosse)
+12 0 69 018 02;Gemeinde;Beetzsee;14778;Beetzsee;12 0 69 000 02;Beetzsee
+12 0 69 019 02;Gemeinde;Beetzseeheide;14778;Beetzseeheide;12 0 69 000 02;Beetzsee
+12 0 69 028 17;Gemeinde;Bensdorf;14789;Bensdorf;12 0 69 000 17;Wusterwitz
+12 0 69 052 04;Gemeinde;Borkheide;14822;Borkheide;12 0 69 000 04;Brück
+12 0 69 056 04;Gemeinde;Borkwalde;14822;Borkwalde;12 0 69 000 04;Brück
+12 0 69 076 04;Stadt;Brück;14822;Brück;12 0 69 000 04;Brück
+12 0 69 089 18;Gemeinde;Buckautal;14793;Buckautal;12 0 69 000 18;Ziesar
+12 0 69 216 04;Gemeinde;Golzow;14778;Golzow;12 0 69 000 04;Brück
+12 0 69 224 18;Gemeinde;Görzke;14828;Görzke;12 0 69 000 18;Ziesar
+12 0 69 232 18;Gemeinde;Gräben;14793;Gräben;12 0 69 000 18;Ziesar
+12 0 69 270 02;Stadt;Havelsee;14798;Havelsee;12 0 69 000 02;Beetzsee
+12 0 69 345 04;Gemeinde;Linthe;14822;Linthe;12 0 69 000 04;Brück
+12 0 69 402 10;Gemeinde;Mühlenfließ;14822;Mühlenfließ;12 0 69 000 10;Niemegk
+12 0 69 448 10;Stadt;Niemegk;14823;Niemegk;12 0 69 000 10;Niemegk
+12 0 69 460 02;Gemeinde;Päwesin;14778;Päwesin;12 0 69 000 02;Beetzsee
+12 0 69 470 04;Gemeinde;Planebruch;14822;Planebruch;12 0 69 000 04;Brück
+12 0 69 474 10;Gemeinde;Planetal;14806;Planetal;12 0 69 000 10;Niemegk
+12 0 69 485 10;Gemeinde;Rabenstein/Fläming;14823;Rabenstein/Fläming;12 0 69 000 10;Niemegk
+12 0 69 537 17;Gemeinde;Rosenau;14789;Rosenau;12 0 69 000 17;Wusterwitz
+12 0 69 541 02;Gemeinde;Roskow;14778;Roskow;12 0 69 000 02;Beetzsee
+12 0 69 648 18;Gemeinde;Wenzlow;14778;Wenzlow;12 0 69 000 18;Ziesar
+12 0 69 680 18;Gemeinde;Wollin;14778;Wollin;12 0 69 000 18;Ziesar
+12 0 69 688 17;Gemeinde;Wusterwitz;14789;Wusterwitz;12 0 69 000 17;Wusterwitz
+12 0 69 696 18;Stadt;Ziesar;14793;Ziesar;12 0 69 000 18;Ziesar
+12 0 70 008 01;Stadt;Bad Wilsnack;19336;Bad Wilsnack;12 0 70 000 01;Bad Wilsnack/Weisen
+12 0 70 028 09;Gemeinde;Berge;19348;Berge;12 0 70 000 09;Putlitz-Berge
+12 0 70 052 01;Gemeinde;Breese;19322;Breese;12 0 70 000 01;Bad Wilsnack/Weisen
+12 0 70 060 05;Gemeinde;Cumlosen;19322;Cumlosen;12 0 70 000 05;Lenzen-Elbtalaue
+12 0 70 096 06;Gemeinde;Gerdshagen;16928;Gerdshagen;12 0 70 000 06;Meyenburg
+12 0 70 145 09;Gemeinde;Gülitz-Reetz;19348;Gülitz-Reetz;12 0 70 000 09;Putlitz-Berge
+12 0 70 153 06;Gemeinde;Halenbeck-Rohlsdorf;16945;Halenbeck-Rohlsdorf;12 0 70 000 06;Meyenburg
+12 0 70 222 06;Gemeinde;Kümmernitztal;16945;Kümmernitztal;12 0 70 000 06;Meyenburg
+12 0 70 236 05;Gemeinde;Lanz;19309;Lanz;12 0 70 000 05;Lenzen-Elbtalaue
+12 0 70 241 01;Gemeinde;Legde/Quitzöbel;19336;Legde/Quitzöbel;12 0 70 000 01;Bad Wilsnack/Weisen
+12 0 70 244 05;Stadt;Lenzen (Elbe);19309;Lenzen (Elbe);12 0 70 000 05;Lenzen-Elbtalaue
+12 0 70 246 05;Gemeinde;Lenzerwische;19309;Lenzerwische;12 0 70 000 05;Lenzen-Elbtalaue
+12 0 70 266 06;Gemeinde;Marienfließ;16945;Marienfließ;12 0 70 000 06;Meyenburg
+12 0 70 280 06;Stadt;Meyenburg;16945;Meyenburg;12 0 70 000 06;Meyenburg
+12 0 70 300 09;Gemeinde;Pirow;19348;Pirow;12 0 70 000 09;Putlitz-Berge
+12 0 70 325 09;Stadt;Putlitz;16949;Putlitz;12 0 70 000 09;Putlitz-Berge
+12 0 70 348 01;Gemeinde;Rühstädt;19322;Rühstädt;12 0 70 000 01;Bad Wilsnack/Weisen
+12 0 70 393 09;Gemeinde;Triglitz;16949;Triglitz;12 0 70 000 09;Putlitz-Berge
+12 0 70 416 01;Gemeinde;Weisen;19322;Weisen;12 0 70 000 01;Bad Wilsnack/Weisen
+12 0 71 028 01;Gemeinde;Briesen;03096;Briesen;12 0 71 000 01;Burg (Spreewald)
+12 0 71 032 01;Gemeinde;Burg (Spreewald);03096;Burg (Spreewald);12 0 71 000 01;Burg (Spreewald)
+12 0 71 041 01;Gemeinde;Dissen-Striesow;03096;Dissen-Striesow;12 0 71 000 01;Burg (Spreewald)
+12 0 71 044 02;Stadt;Döbern;03159;Döbern;12 0 71 000 02;Döbern-Land
+12 0 71 052 07;Gemeinde;Drachhausen;03185;Drachhausen;12 0 71 000 07;Peitz
+12 0 71 060 07;Gemeinde;Drehnow;03185;Drehnow;12 0 71 000 07;Peitz
+12 0 71 074 02;Gemeinde;Felixsee;03130;Felixsee;12 0 71 000 02;Döbern-Land
+12 0 71 153 02;Gemeinde;Groß Schacksdorf-Simmersdorf;03149;Groß Schacksdorf-Simmersdorf;12 0 71 000 02;Döbern-Land
+12 0 71 164 01;Gemeinde;Guhrow;03096;Guhrow;12 0 71 000 01;Burg (Spreewald)
+12 0 71 176 07;Gemeinde;Heinersbrück;03185;Heinersbrück;12 0 71 000 07;Peitz
+12 0 71 189 02;Gemeinde;Jämlitz-Klein Düben;03130;Jämlitz-Klein Düben;12 0 71 000 02;Döbern-Land
+12 0 71 193 07;Gemeinde;Jänschwalde;03197;Jänschwalde;12 0 71 000 07;Peitz
+12 0 71 294 02;Gemeinde;Neiße-Malxetal;03159;Neiße-Malxetal;12 0 71 000 02;Döbern-Land
+12 0 71 304 07;Stadt;Peitz;03185;Peitz;12 0 71 000 07;Peitz
+12 0 71 341 01;Gemeinde;Schmogrow-Fehrow;03096;Schmogrow-Fehrow;12 0 71 000 01;Burg (Spreewald)
+12 0 71 384 07;Gemeinde;Tauer;03185;Tauer;12 0 71 000 07;Peitz
+12 0 71 386 07;Gemeinde;Teichland;03185;Teichland;12 0 71 000 07;Peitz
+12 0 71 392 02;Gemeinde;Tschernitz;03130;Tschernitz;12 0 71 000 02;Döbern-Land
+12 0 71 401 07;Gemeinde;Turnow-Preilack;03185;Turnow-Preilack;12 0 71 000 07;Peitz
+12 0 71 412 01;Gemeinde;Werben;03096;Werben;12 0 71 000 01;Burg (Spreewald)
+12 0 71 414 02;Gemeinde;Wiesengrund;03149;Wiesengrund;12 0 71 000 02;Döbern-Land
+12 0 72 053 04;Stadt;Dahme/Mark;15936;Dahme/Mark;12 0 72 000 04;Dahme/Mark
+12 0 72 055 04;Gemeinde;Dahmetal;15936;Dahmetal;12 0 72 000 04;Dahme/Mark
+12 0 72 157 04;Gemeinde;Ihlow;15936;Ihlow;12 0 72 000 04;Dahme/Mark
+12 0 72 298 04;Gemeinde;Niederer Fläming;14913;Niederer Fläming OT Lichterfelde;12 0 72 000 04;Dahme/Mark
+12 0 73 032 10;Gemeinde;Berkholz-Meyenburg;16306;Berkholz-Meyenburg;12 0 73 000 10;Oder-Welse
+12 0 73 085 03;Stadt;Brüssow;17326;Brüssow;12 0 73 000 03;Brüssow (Uckermark)
+12 0 73 093 03;Gemeinde;Carmzow-Wallmow;17291;Carmzow-Wallmow;12 0 73 000 03;Brüssow (Uckermark)
+12 0 73 097 04;Gemeinde;Casekow;16306;Casekow;12 0 73 000 04;Gartz (Oder)
+12 0 73 157 05;Gemeinde;Flieth-Stegelitz;17268;Flieth-Stegelitz;12 0 73 000 05;Gerswalde
+12 0 73 189 04;Stadt;Gartz (Oder);16307;Gartz (Oder);12 0 73 000 04;Gartz (Oder)
+12 0 73 201 05;Gemeinde;Gerswalde;17268;Gerswalde;12 0 73 000 05;Gerswalde
+12 0 73 216 03;Gemeinde;Göritz;17291;Göritz;12 0 73 000 03;Brüssow (Uckermark)
+12 0 73 225 06;Gemeinde;Gramzow;17291;Gramzow;12 0 73 000 06;Gramzow
+12 0 73 261 06;Gemeinde;Grünow;17291;Grünow;12 0 73 000 06;Gramzow
+12 0 73 309 04;Gemeinde;Hohenselchow-Groß Pinnow;16306;Hohenselchow-Groß Pinnow;12 0 73 000 04;Gartz (Oder)
+12 0 73 386 10;Gemeinde;Mark Landin;16278;Mark Landin;12 0 73 000 10;Oder-Welse
+12 0 73 393 04;Gemeinde;Mescherin;16307;Mescherin;12 0 73 000 04;Gartz (Oder)
+12 0 73 396 05;Gemeinde;Milmersdorf;17268;Milmersdorf;12 0 73 000 05;Gerswalde
+12 0 73 404 05;Gemeinde;Mittenwalde;17268;Mittenwalde;12 0 73 000 05;Gerswalde
+12 0 73 430 06;Gemeinde;Oberuckersee;17291;Oberuckersee;12 0 73 000 06;Gramzow
+12 0 73 440 10;Gemeinde;Pinnow;16278;Pinnow;12 0 73 000 10;Oder-Welse
+12 0 73 458 06;Gemeinde;Randowtal;17291;Randowtal;12 0 73 000 06;Gramzow
+12 0 73 490 03;Gemeinde;Schenkenberg;17291;Schenkenberg;12 0 73 000 03;Brüssow (Uckermark)
+12 0 73 505 10;Gemeinde;Schöneberg;16278;Schöneberg;12 0 73 000 10;Oder-Welse
+12 0 73 520 03;Gemeinde;Schönfeld;17291;Schönfeld;12 0 73 000 03;Brüssow (Uckermark)
+12 0 73 565 04;Gemeinde;Tantow;16307;Tantow;12 0 73 000 04;Gartz (Oder)
+12 0 73 569 05;Gemeinde;Temmen-Ringenwalde;17268;Temmen-Ringenwalde;12 0 73 000 05;Gerswalde
+12 0 73 578 06;Gemeinde;Uckerfelde;17291;Uckerfelde;12 0 73 000 06;Gramzow
+12 0 73 603 10;Gemeinde;Passow;16306;Passow;12 0 73 000 10;Oder-Welse
+12 0 73 645 06;Gemeinde;Zichow;16306;Zichow;12 0 73 000 06;Gramzow

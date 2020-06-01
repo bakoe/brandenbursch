@@ -1,0 +1,210 @@
+SCHLUESSEL;ART;NAME;AMTSBEZEICHNUNG;ANREDE;NAME;STRASSE;PLZ;ORT;TEL;FAX;E-MAIL;WWW
+12 0 60 005;Gemeinde;Ahrensfelde;Bürgermeister;Herr;Wilfried Gehrke;Lindenberger Straße 1;16356;Ahrensfelde;030 9369000;030 93690069;info@gemeinde-ahrensfelde.de;https://www.ahrensfelde.de
+12 0 66 000 01;Amt;Altdöbern;Amtsdirektor;Herr;Frank Neubert;Marktstraße 1;03229;Altdöbern;035434 60010;035434 60060;info@amt-altdoebern.de;https://www.amt-altdoebern.de
+12 0 64 029;Stadt;Altlandsberg;Bürgermeister;Herr;Arno Jaeschke;Berliner Allee 6;15345;Altlandsberg;033438 1560;033438 15688;info@stadt-altlandsberg.de;http://www.altlandsberg.de
+12 0 72 002;Gemeinde;Am Mellensee;Bürgermeister;Herr;Frank Broshog;Zossener Str. 21c;15838;Am Mellensee;033703 9590;033703 95969;info@mellensee.de;https://www.gemeinde-am-mellensee.de
+12 0 73 008;Stadt;Angermünde;Bürgermeister;Herr;Frederik Bewer;Markt 24;16278;Angermünde;03331 260013;03331 260045;i.hundt@angermuende.de;https://www.angermuende.de
+12 0 69 020;Stadt;Bad Belzig;Bürgermeister;Herr;Roland Leisegang;Wiesenburger Straße 6;14806;Bad Belzig;033841 940;033841 94131;info@bad-belzig.de;https://www.bad-belzig.de
+12 0 64 044;Stadt;Bad Freienwalde (Oder);Bürgermeister;Herr;Ralf Lehmann;Karl-Marx-Straße 1;16259;Bad Freienwalde (Oder);03344 412121;03344 412153;stadtverwaltung@bad-freienwalde.de;https://www.bad-freienwalde.de
+12 0 70 000 01;Amt;Bad Wilsnack/Weisen;Amtsdirektor;Herr;Torsten Jacob;Am Markt 1;19336;Bad Wilsnack;038791 999-101;038791 999-199;amt_bad_wilsnack_weisen@t-online.de;www.amt-badwilsnack-weisen.de
+12 0 60 000;Landkreis;Barnim;Landrat;Herr;Daniel Kurth;Paul Wunderlich Haus, Am Markt 1;16225;Eberswalde;03334 214-0;03334 214-1192;kreisverwaltung@kvbarnim.de ;https://www.barnim.de
+12 0 64 000 14;Amt;Barnim-Oderbruch;Amtsdirektor;Herr;Karsten Birkholz ;Freienwalder Straße 48;16269;Wriezen;033456 39960;033456 34843;rubin@barnim-oderbruch.de;https://www.barnim-oderbruch.de
+12 0 72 014;Stadt;Baruth/Mark;Bürgermeister;Herr;Peter Ilk;Ernst-Thälmann-Platz 4;15837;Baruth/Mark;033704 9720;033704 97299;info@stadt-baruth-mark.de;https://www.stadt-baruth-mark.de
+12 0 69 017;Stadt;Beelitz;Bürgermeister;Herr;Bernhard Knuth;Berliner Straße 202;14547;Beelitz;033204 3910;033204 39135;info@beelitz.de;https://www.beelitz.de
+12 0 67 036;Stadt;Beeskow;Bürgermeister;Herr;Frank Steffen;Berliner Straße 30;15848;Beeskow;03366 422 12;03366 422 13;rathaus@beeskow.de ;https://www.beeskow.de
+12 0 69 000 02;Amt;Beetzsee;Amtsdirektor;Herr;Guido Müller;Chausseestraße 33b;14778;Beetzsee;03381 79990;03381 799940;info@amt-beetzsee.de;http://www.amt-beetzsee.de
+12 0 60 020;Stadt;Bernau bei Berlin;Bürgermeister;Herr;André Stahl;Marktplatz 2;16321;Bernau bei Berlin;03338 3650;03338 365105;stadtverwaltung@bernau-bei-berlin.de;https://www.bernau-bei-berlin.de
+12 0 61 020;Gemeinde;Bestensee;Bürgermeister;Herr;Klaus-Dieter Quasdorf;Eichhornstraße 4-5;15741;Bestensee;033763 9980;033763 63489;buergerbuero@bestensee.de;https://www.bestensee.de
+12 0 60 000 03;Amt;Biesenthal-Barnim;Amtsdirektor;Herr;André Nedlin;Berliner Straße 1;16359;Biesenthal;03337 45990;03337 459940;poststelle@amt-biesenthal-barnim.de;https://www.amt-biesenthal-barnim.de
+12 0 65 036;Gemeinde;Birkenwerder;Bürgermeister;Herr;Stephan Zimniok;Hauptstraße 34;16547;Birkenwerder;03303 2900;03303 290200;info@birkenwerder.de;http://www.birkenwerder.de
+12 0 72 017;Gemeinde;Blankenfelde-Mahlow;Bürgermeister;Herr;Michael Schwuchow;Karl-Marx-Straße 4;15827;Blankenfelde-Mahlow;03379 3330;03379 333200;verwaltung@blankenfelde-mahlow.de;https://www.blankenfelde-mahlow.de
+12 0 73 069;Gemeinde;Boitzenburger Land;Bürgermeister;Herr;Frank Zimmermann;Templiner Straße 17;17268;Boitzenburger Land;039889 61430;039889 61458;info@gemeinde-boitzenburger-land.de;https://www.gemeinde-boitzenburger-land.de
+12 0 51 000;kreisfreie Stadt;Brandenburg an der Havel;Oberbürgermeister;Herr;Steffen Scheller;Altstädtischer Markt 10;14770;Brandenburg an der Havel;03381 58-0;03381 58-7074;info@stadt-brandenburg.de;https://www.stadt-brandenburg.de
+12 0 63 036;Gemeinde;Brieselang;Bürgermeister;Herr;Ralf Heimann;Am Markt 3;14656;Brieselang;033232 3380;033232 33888;buergermeister@gemeindebrieselang.de;https://www.gemeindebrieselang.de
+12 0 67 000 01;Amt;Brieskow-Finkenheerd;Amtsdirektor;Herr;Danny Busse;August-Bebel-Straße 18a;15295;Brieskow-Finkenheerd;033609 88100;033609 88102;kontakt@amt-b-f.de;https://www.amt-b-f.de
+12 0 60 000 11;Amt;Britz-Chorin-Oderberg;Amtsdirektor;Herr;Jörg Matthes;Eisenwerkstraße 11;16230;Britz;03334 45760;03334 457650;post@amt-bco.de;https://britz-chorin-oderberg.de
+12 0 69 000 04;Amt;Brück;Amtsdirektor;Herr;Marko Köhler;Ernst-Thälmann-Straße 59;14822;Brück;033844 620;033844 62119;info@amt-brueck.de;https://www.amt-brueck.de
+12 0 73 000 03;Amt;Brüssow (Uckermark);Amtsdirektorin;Frau;Annett Hartwig;Prenzlauer Straße 8;17326;Brüssow;039742 8600;039742 86015;info@amt-bruessow.de;http://www.amt-bruessow.de
+12 0 71 000 01;Amt;Burg (Spreewald);Amtsdirektor;Herr;Tobias Hentschel;Hauptstraße 46;03096;Burg (Spreewald);035603 6820;035603 68222;info@amt-burg-spreewald.de;https://www.amt-burg-spreewald.de
+12 0 66 052;Stadt;Calau;Bürgermeister;Herr;Werner Suchner;Platz des Friedens 10;03205;Calau;03541 8910;03541 891153;hauptamt@calau.de;https://www.calau.de
+12 0 52 000;kreisfreie Stadt;Cottbus;Oberbürgermeister;Herr;Holger Kelch;Neumarkt 5;03046;Cottbus;0355 612-0;0355 23564;info@cottbus.de;http://www.cottbus.de
+12 0 61 000;Landkreis;Dahme-Spreewald;Landrat;Herr;Stephan Loge;Reutergasse 12;15907;Lübben (Spreewald);03546 20-0;03546 20-1256;post@dahme-spreewald.de ;https://www.dahme-spreewald.de
+12 0 72 000 04;Amt;Dahme/Mark;Amtsdirektor;Herr;David Kaluza;Hauptstraße 48/49;15936;Dahme/Mark;035451 9810;035451 98144;amt@dahme.de;https://www.dahme.de
+12 0 63 056;Gemeinde;Dallgow-Döberitz;Bürgermeister;Herr;Jürgen Hemberger;Wilmsstraße 41;14624;Dallgow-Döberitz;03322 29840;03322 298411;gemeinde@dallgow.de;https://www.dallgow.de
+12 0 62 092;Stadt;Doberlug-Kirchhain;Bürgermeister;Herr;Bodo Broszinski;Am Markt 8;03253;Doberlug-Kirchhain;035322 390;035322 2271;info@doberlug-kirchhain.de;http://www.doberlug-kirchhain.de
+12 0 71 000 02;Amt;Döbern-Land;Amtsdirektorin;Frau;Anja Redlow;Forster Straße 8;03159;Döbern;035600 3687-0;035600 3687-15;post@amt-doebern-land.de;https://www.amt-doebern-land.de
+12 0 71 057;Stadt;Drebkau;Bürgermeister;Herr;Paul Köhne;Spremberger Straße 61;03116;Drebkau;035602 56217;035602 56260;sekretariat@drebkau.de;http://www.drebkau.de
+12 0 60 052;Stadt;Eberswalde;Bürgermeister;Herr;Friedhelm Boginski;Breite Straße 41-44;16225;Eberswalde;03334 640;03334 64519;stadtverwaltung@eberswalde.de;https://www.eberswalde.de
+12 0 61 112;Gemeinde;Eichwalde;Bürgermeister;Herr;Jörg Jenoch;Grünauer Straße 49;15732;Eichwalde;030 675020;030 67502-101;gemeinde@eichwalde.de;https://www.eichwalde.de
+12 0 67 120;Stadt;Eisenhüttenstadt;Bürgermeister;Herr;Frank Balzer;Zentraler Platz 1;15890;Eisenhüttenstadt;03364 566 0;01805 010 711 070;info@eisenhuettenstadt.de;https://www.eisenhuettenstadt.de
+12 0 62 000;Landkreis;Elbe-Elster;Landrat;Herr;Christian Heinrich-Jaschinski;Ludwig-Jahn-Straße 2;04916;Herzberg (Elster);03535 46-0;03535 3133;landrat@lkee.de;http://www.lkee.de
+12 0 62 000 02;Amt;Elsterland;Amtsdirektor;Herr;Andreas Dommaschk ;Kindergartenstraße 2a;03253;Schönborn;035326 98110;035326 98139;amt@elsterland.de;https://www.elsterland.de
+12 0 62 124;Stadt;Elsterwerda;Bürgermeisterin;Frau;Anja Heinrich;Hauptstraße 12;04910;Elsterwerda;03533 65-0;03533 65-5126;stadtelsterwerda@t-online.de;https://www.elsterwerda.de
+12 0 67 124;Stadt;Erkner;Bürgermeister;Herr;Henryk Pilz;Friedrichstraße 6-8;15537;Erkner;03362 7950;03362 795255;post@erkner.de;http://www.erkner.de
+12 0 64 000 03;Amt;Falkenberg-Höhe;Amtsdirektor;Herr;Holger Horneffer;Karl-Marx-Straße 2;16259;Falkenberg;033458 64610;033458 64624;info@amt-fahoe.de;https://www.amt-fahoe.de
+12 0 63 080;Stadt;Falkensee;Bürgermeister;Herr;Heiko Müller;Falkenhagener Straße 43/49;14612;Falkensee;03322 2810;03322 281101;rathaus@falkensee.de;https://www.falkensee.de
+12 0 68 117;Gemeinde;Fehrbellin;Bürgermeister;Herr;Mathias Perschall;Johann-Sebastian-Bach-Straße 6;16833;Fehrbellin;033932 595-0;033932 70314;info@gemeinde-fehrbellin.de;http://www.gemeinde-fehrbellin.de
+12 0 62 140;Stadt;Finsterwalde;Bürgermeister;Herr;Jörg Gampe;Schloßstraße 7-8;03238;Finsterwalde;03531 7830;03531 2766;info@finsterwalde.de;https://www.finsterwalde.de
+12 0 71 076;Stadt;Forst (Lausitz);Bürgermeisterin;Frau;Simone Taubenek;Lindenstr. 10-12;03149;Forst (Lausitz);03562 9890;03562 7460;info@forst-lausitz.de;http://www.forst-lausitz.de
+12 0 53 000;kreisfreie Stadt;Frankfurt (Oder);Oberbürgermeister;Herr;René Wilke;Logenstraße 8;15230;Frankfurt (Oder);0335 552-9900;0335 552-1399;oberbuergermeister@frankfurt-oder.de;https://www.frankfurt-oder.de
+12 0 64 136;Gemeinde;Fredersdorf-Vogelsdorf;Bürgermeister;Herr;Thomas Krieger;Lindenallee 3;15370;Fredersdorf-Vogelsdorf;033439 835-0;033439 835-100;verwaltung@fredersdorf-vogelsdorf.de;https://www.fredersdorf-vogelsdorf.de
+12 0 67 137;Stadt;Friedland;Bürgermeister;Herr;Thomas Hähle;Lindenstraße 13;15848;Friedland;033676 6090;033676 60928;info@friedland-nl.de;http://www.friedland-nl.de
+12 0 63 000 02;Amt;Friesack;Amtsdirektor;Herr;Christian Pust;Marktstraße 22;14662;Friesack;033235 42-0;033235 42-850; info@amt-friesack.de ;http://www.amt-friesack.de
+12 0 65 084;Stadt;Fürstenberg/Havel;Bürgermeister;Herr;Robert Philipp;Markt 1;16798;Fürstenberg/Havel;033093 34611;033093 32307;info@stadt-fuerstenberg-havel.de;https://www.fuerstenberg-havel.de
+12 0 67 144;Stadt;Fürstenwalde/Spree;Bürgermeister;Herr;Matthias Rudolph;Am Markt 4;15517;Fürstenwalde/Spree;03361 5570;03361 557400;stadtverwaltung@fuerstenwalde-spree.de;http://www.fuerstenwalde-spree.de
+12 0 73 000 04;Amt;Gartz (Oder);Amtsdirektor;Herr;Frank Gotzmann;Kleine Klosterstraße 153;16307;Gartz (Oder);033332 770;033332 77151;info@gartz.de;https://www.gartz.de
+12 0 73 000 05;Amt;Gerswalde;Amtsdirektor;Herr;Andreas Rutter;Dorfmitte 14a;17268;Gerswalde;039887 758-0;039887 758-30;info@amt-gerswalde.de;https://www.amt-gerswalde.de
+12 0 65 096;Gemeinde;Glienicke/Nordbahn;Bürgermeister;Herr;Dr. Hans G. Oberlack;Hauptstraße 18-21;16548;Glienicke/Nordbahn;033056 69-0;033056 80369;info@glienicke.eu;https://www.glienicke.eu
+12 0 64 000 04;Amt;Golzow;Amtsdirektor;Herr;Lothar Ebert;Seelower Straße 14;15328;Golzow;033472 6690;033472 66913;sekretariat@amt-golzow.de;https://www.amt-golzow.de
+12 0 73 000 06;Amt;Gramzow;Amtsdirektor;Herr;Reiner Schulz;Poststraße 25;17291;Gramzow;039861 60010;039861 60060;info@amtgramzow.de;http://www.amt-gramzow.de
+12 0 65 000 02;Amt;Gransee und Gemeinden;Amtsdirektor;Herr;Frank Stege;Baustraße 56;16775;Gransee;03306 751101;03306 751102;amtsdirektor@gransee.de;https://www.gransee.de
+12 0 69 249;Gemeinde;Groß Kreutz (Havel);Bürgermeister;Herr;Reth Kalsow;Potsdamer Landstraße 49 b;14550;Groß Kreutz (Havel);033207 3510;033207 32363;info@gross-kreutz.de;https://www.gross-kreutz.de
+12 0 70 125;Gemeinde;Groß Pankow (Prignitz);Bürgermeister;Herr;Marco Radloff;Steindamm 21;16928;Groß Pankow (Prignitz);033983 7890;033983 78913;mail@grosspankow.de;http://www.grosspankow.de
+12 0 72 120;Gemeinde;Großbeeren;Bürgermeister;Herr;Tobias Borstel;Am Rathaus 1;14979;Großbeeren;033701 32880;033701 328866;info@grossbeeren.de;https://www.grossbeeren.de
+12 0 66 112;Stadt;Großräschen;Bürgermeister;Herr;Thomas Zenker;Seestraße 16;01983;Großräschen;035753 270;035753 27113;info@grossraeschen.de;https://www.grossraeschen.de
+12 0 67 201;Gemeinde;Grünheide (Mark);Bürgermeister;Herr;Arne Christiani;Am Marktplatz 1;15537;Grünheide (Mark);03362 58550;03362 585558;info@gemeinde-gruenheide.de;https://www.gruenheide-mark.de
+12 0 71 160;Stadt;Guben;Bürgermeister;Herr;Fred Mahro;Gasstraße 4;03172;Guben;03561 68710;03561 68714000;info@guben.de;https://www.guben.de
+12 0 70 149;Gemeinde;Gumtow;Bürgermeister;Herr;Stefan Freimark;Karpatenweg 2;16866;Gumtow;033977 8790;033977 80613;mail@gemeindegumtow.de;http://www.gemeindegumtow.de
+12 0 63 000;Landkreis;Havelland;Landrat;Herr;Roger Lewandowski;Platz der Freiheit 1;14712;Rathenow;03385 551-0;03385 551-1555;landkreis@havelland.de;https://www.havelland.de
+12 0 61 219;Gemeinde;Heideblick;Bürgermeister;Herr;Frank Deutschmann;Langengrassau Luckauer Straße 61;15926;Heideblick;035454 8810;035454 88188;gemeinde@heideblick.de;https://www.heideblick.de
+12 0 61 217;Gemeinde;Heidesee;Bürgermeister;Herr;Björn Langner;Lindenstraße 14b;15754;Heidesee ;033767 7950;033767 79510;post@gemeinde-heidesee.de;http://www.heidesee-online.de
+12 0 68 181;Gemeinde;Heiligengrabe;Bürgermeister;Herr;Holger Kippenhahn;Am Birkenwäldchen 1a;16909;Heiligengrabe OT Heiligengrabe;033962 670;033962 67333;gemeinde@heiligengrabe.de;http://www.heiligengrabe.de
+12 0 65 136;Stadt;Hennigsdorf;Bürgermeister;Herr;Thomas Günther;Rathausplatz 1;16761;Hennigsdorf;03302 8770;03302 877290;stadtverwaltung@hennigsdorf.de;https://www.hennigsdorf.de
+12 0 62 224;Stadt;Herzberg (Elster);Bürgermeister;Herr;Karsten Eule-Prütz;Markt 1;04916;Herzberg (Elster);03535 482-115;03535 482-120;stadtverwaltung@stadt-herzberg.de;https://www.herzberg-elster.de
+12 0 65 144;Stadt;Hohen Neuendorf;Bürgermeister;Herr;Steffen Apelt;Oranienburger Straße 2;16540;Hohen Neuendorf;03303 5280;03303 500751;apelt@hohen-neuendorf.de;https://www.hohen-neuendorf.de
+12 0 64 227;Gemeinde;Hoppegarten;Bürgermeister;Herr;Sven Siebert;Lindenallee 14;15366;Hoppegarten;03342 393-0;03342 393150;post@gemeinde-hoppegarten.de;https://www.gemeinde-hoppegarten.de
+12 0 60 000 06;Amt;Joachimsthal (Schorfheide);Amtsdirektor;Herr;Dirk Protzmann;Joachimsplatz 1-3;16247;Joachimsthal;033361 6460;033361 64623;sekretariat@amt-joachimsthal.de ;https://www.amt-joachimsthal.de
+12 0 72 169;Stadt;Jüterbog;Bürgermeister;Herr;Arne Raue;Markt 21;14913;Jüterbog;03372 463 100;03372 463 410;stadtverwaltung@jueterbog.de;https://www.jueterbog.eu
+12 0 70 173;Gemeinde;Karstädt;Bürgermeister;Herr;Udo Staeck;Mühlenstraße 1;19357;Karstädt;038797 770;038797 77299;verwaltung@gemeinde-karstaedt.de;https://www.gemeinde-karstaedt.de
+12 0 63 148;Stadt;Ketzin/Havel;Bürgermeister;Herr;Bernd Lück;Rathausstraße 7;14669;Ketzin/Havel;033233 720112;033233 720199;info@ketzin.de;https://www.ketzin.de
+12 0 62 000 05;Amt;Kleine Elster (Niederlausitz);Amtsdirektor;Herr;Gottfried Richter;Turmstraße 5;03238;Massen-Niederlausitz;03531 7820;03531 702227;info@amt-kleine-elster.de;https://www.amt-kleine-elster.de
+12 0 69 304;Gemeinde;Kleinmachnow;Bürgermeister;Herr;Michael Grubert;Adolf-Grimme-Ring 10;14532;Kleinmachnow;033203 877-1301 bis -1304;033203 877-2999;info@kleinmachnow.de;http://www.kleinmachnow.de
+12 0 69 306;Gemeinde;Kloster Lehnin;Bürgermeister;Herr;Uwe Brückner;Friedensstraße 3;14797;Kloster Lehnin;03382 73070;03382 730762;kontakt@lehnin.de;https://www.klosterlehnin.de
+12 0 71 244;Gemeinde;Kolkwitz;Bürgermeister;Herr;Karsten Schreiber;Berliner Straße 19;03099;Kolkwitz;0355 293000;0355 2930099;gemeinde-kolkwitz@t-online.de;http://www.kolkwitz.de
+12 0 61 260;Stadt;Königs Wusterhausen;Bürgermeister;Herr;Swen Ennullat;Schlossstraße 3;15711;Königs Wusterhausen;03375 273 0;03375 273 134;stadtverwaltung@stadt-kw.de;https://www.koenigs-wusterhausen.de
+12 0 65 165;Stadt;Kremmen;Bürgermeister;Herr;Sebastian Busse;Am Markt 1;16766;Kremmen;033055 9980;033055 99866;buergermeister@kremmen.de;https://www.kremmen.de
+12 0 68 264;Stadt;Kyritz;Bürgermeisterin;Frau;Nora Görke;Marktplatz 1;16866;Kyritz;033971 850;033971 85245;stadtverwaltung@kyritz.de;https://www.kyritz.de
+12 0 66 176;Stadt;Lauchhammer;Bürgermeister;Herr;Roland Pohlenz;Liebenwerdaer Straße 69;01979;Lauchhammer;03574 4880;03574 488650;info@lauchhammer.de;http://www.lauchhammer.de
+12 0 64 000 06;Amt;Lebus;Amtsdirektor;Herr;Mike Bartsch;Breite Straße 1;15326;Lebus;033604 4450;033604 44513;buerodesamtsdirektors@amt-lebus.de;https://www.amt-lebus.de
+12 0 65 180;Gemeinde;Leegebruch;Bürgermeister;Herr;Martin Rother;Birkenallee 1;16767;Leegebruch;03304 24960;03304 249696;gemeinde@leegebruch.de;https://www.leegebruch.de
+12 0 70 000 05;Amt;Lenzen-Elbtalaue;Amtsdirektor;Herr;Harald Ziegeler;Kellerstraße 4;19309;Lenzen (Elbe);038792 9880;038792 98860;mail@amtlenzen.de;http://www.amtlenzen.de
+12 0 64 274;Gemeinde;Letschin;Bürgermeister;Herr;Michael Böttcher;Bahnhofstraße 30a;15324;Letschin;033475 60590;033475 279;info@letschin.de;https://www.letschin.de
+12 0 65 193;Stadt;Liebenwalde;Bürgermeister;Herr;Jörn Lehmann;Marktplatz 20;16559;Liebenwalde;033054 80510;033054 80570;info@liebenwalde.de;https://www.liebenwalde.de
+12 0 62 000 31;Verbandsgemeinde;Liebenwerda;Bürgermeister;Herr;Herold Quick;Markt 1;04924;Bad Liebenwerda;035341 1550;;zentrale@vg-liebenwerda.de;
+12 0 61 000 13;Amt;Lieberose/Oberspreewald;Amtsdirektor;Herr;Bernd Boschan;Kirchstraße 11;15913;Straupitz;035475 8630;035475 86365;amt@lieberose-oberspreewald.de;https://www.lieberose-oberspreewald.de
+12 0 68 000 04;Amt;Lindow (Mark);Amtsdirektor;Herr;Danilo Lieske;Straße des Friedens 20;16835;Lindow (Mark);033933 89630;033933 72907;webmaster@amt-lindow-mark.de;http://www.amt-lindow-mark.de
+12 0 65 198;Gemeinde;Löwenberger Land;Bürgermeister;Herr;Bernd-Christian Schneck;Alte Schulstraße 5;16775;Löwenberger Land;033094 6980;033094 69888;info@loewenberger-land.de;https://www.loewenberger-land.de
+12 0 61 316;Stadt;Lübben (Spreewald);Bürgermeister;Herr;Lars Kolan;Poststraße 5;15907;Lübben (Spreewald);03546 790;03546 792560;info@luebben.de;https://www.luebben.de
+12 0 66 196;Stadt;Lübbenau/Spreewald;Bürgermeister;Herr;Helmut Wenzel;Kirchplatz 1;03222;Lübbenau/Spreewald;03542 850;03542 85500;stadt@luebbenau-spreewald.de;https://www.luebbenau-spreewald.de
+12 0 61 320;Stadt;Luckau;Bürgermeister;Herr;Gerald Lehmann ;Am Markt 34;15926;Luckau;03544 5940;03544 2948;stadt@luckau.de;https://www.luckau.de
+12 0 72 232;Stadt;Luckenwalde;Bürgermeisterin;Frau;Elisabeth Herzog-von der Heide;Markt 10;14943;Luckenwalde;03371 672221;03371 672270;rathaus@luckenwalde.de;https://www.luckenwalde.de
+12 0 72 240;Stadt;Ludwigsfelde;Bürgermeister;Herr;Andreas Igel;Rathausstraße 3;14974;Ludwigsfelde;03378 8270;03378 827124;post@ludwigsfelde.de;https://www.ludwigsfelde.de
+12 0 73 384;Stadt;Lychen;Bürgermeisterin;Frau;Karola Gundlach;Am Markt 1;17279;Lychen;039888 605-0;039888 605-29;stadtverwaltung@lychen.de;http://www.lychen.de
+12 0 64 000;Landkreis;Märkisch-Oderland;Landrat;Herr;Gernot Schmidt;Puschkinplatz 12;15306;Seelow;03346 850-6001;03346 420;buero_landrat@landkreismol.de;https://www.maerkisch-oderland.de
+12 0 61 329;Gemeinde;Märkische Heide;Bürgermeisterin;Frau;Annett Lehmann ;Schlossstraße 13a;15913;Märkische Heide;035471 8510;035471 85117;info@maerkische-heide.de;https://www.maerkische-heide.de
+12 0 64 000 08;Amt;Märkische Schweiz;Amtsdirektor;Herr;Marco Böttche;Hauptstraße 1;15377;Buckow (Märkische Schweiz);033433 150-0;033433 150-190;amtsverwaltung@amt-maerkische-schweiz.de;https://amt-maerkische-schweiz.de
+12 0 70 000 06;Amt;Meyenburg;Amtsdirektor;Herr;Matthias Habermann;Freyensteiner Straße 42;16945;Meyenburg;033968 8250;033968 82540;mail@amtmeyenburg.de;https://www.amtmeyenburg.de
+12 0 69 397;Gemeinde;Michendorf;Bürgermeisterin;Frau;Claudia Nowka;Potsdamer Straße 33;14552;Michendorf;033205 5980;033205 59850;post@michendorf.de;https://www.michendorf.de
+12 0 63 189;Gemeinde;Milower Land;Bürgermeister;Herr;Felix Menzel;Friedensstraße 86;14715;Milower Land;03386 27090;03386 270930;gemeinde@milowerland.de;http://www.milowerland.de
+12 0 61 332;Stadt;Mittenwalde;Bürgermeisterin;Frau;Maja Buße;Rathausstraße 8;15749;Mittenwalde;033764 8980;033764 89850;post@mittenwalde.de;https://www.mittenwalde.de
+12 0 65 225;Gemeinde;Mühlenbecker Land;Bürgermeister;Herr;Filippo Smaldino;Liebenwalder Straße 1;16567;Mühlenbecker Land;033056 8410;033056 84170;gemeinde@muehlenbecker-land.de;https://www.muehlenbecker-land.de
+12 0 64 317;Stadt;Müncheberg;Bürgermeisterin;Frau;Dr. Uta Barkusky ;Rathausstraße 1;15374;Müncheberg;033432 81107;033432 81143;rathaus@stadt-muencheberg.de;https://www.stadt-muencheberg.de
+12 0 63 208;Stadt;Nauen;Bürgermeister;Herr;Manuel Meger;Rathausplatz 1;14641;Nauen;03321 4080;03321 408216;info@nauen.de;http://www.nauen.de
+12 0 63 000 06;Amt;Nennhausen;Amtsdirektorin;Frau;Ilka Lenke;Fouqué-Platz 3;14715;Nennhausen;033878 6490;033878 64928;info@amt-nennhausen.de;https://www.amt-nennhausen.de
+12 0 64 336;Gemeinde;Neuenhagen bei Berlin;Bürgermeister;Herr;Ansgar Scharnke;Am Rathaus 1;15366;Neuenhagen bei Berlin;03342 245-500;03342 245-444;gemeinde@neuenhagen-bei-berlin.de;https://www.neuenhagen-bei-berlin.de
+12 0 64 000 10;Amt;Neuhardenberg;Amtsdirektorin;Frau;Dr. Grit Brinkmann;Karl-Marx-Allee 72;15320;Neuhardenberg;033476 5950;033476 595300;info@amt-neuhardenberg.de;http://www.amt-neuhardenberg.de
+12 0 71 301;Gemeinde;Neuhausen/Spree;Bürgermeister;Herr;Dieter Perko;Amtsweg 1;03058;Neuhausen/Spree;035605 6120;035605 612888;info@neuhausen-spree.de;https://www.neuhausen-spree.de
+12 0 68 320;Stadt;Neuruppin;Bürgermeister;Herr;Jens-Peter Golde;Karl-Liebknecht-Straße 33/34;16816;Neuruppin;03391 355 0;03391 355122;stadt@stadtneuruppin.de;https://www.neuruppin.de
+12 0 68 000 05;Amt;Neustadt (Dosse);Amtsdirektor;Herr;Dieter Fuchs ;Bahnhofstraße 6;16845;Neustadt (Dosse);033970 950;033970 95223;amt@neustadt-dosse.de;https://www.neustadt-dosse.de
+12 0 67 000 05;Amt;Neuzelle;Amtsdirektor;Herr;Hans Georg Köhler;Bahnhofstraße 22;15898;Neuzelle;033652 8350;033652 83535;amt@neuzelle.de;https://www.neuzelle.de
+12 0 72 297;Gemeinde;Niedergörsdorf;Bürgermeisterin;Frau;Doreen Boßdorf;Dorfstraße 14f;14913;Niedergörsdorf;033741 6970;033741 72215;hauptamt@niedergoersdorf.de;https://www.gemeinde-niedergoersdorf.de
+12 0 69 000 10;Amt;Niemegk;Amtsdirektor;Herr;Thomas Hemmerling ;Großstraße 6;14823;Niemegk;033843 6270;033843 51529;sekretariat@amt-niemegk.de;https://www.amt-niemegk.de
+12 0 73 429;Gemeinde;Nordwestuckermark;Bürgermeister;Herr;Roland Klatt;Amtsstraße 8;17291;Nordwestuckermark  OT Schönermark;039852 4790;039852 479214;kontakt@gemeinde-nordwestuckermark.de;https://www.gemeinde-nordwestuckermark.de
+12 0 72 312;Gemeinde;Nuthe-Urstromtal;Bürgermeister;Herr;Stefan Scheddin;Frankenfelder Straße 10;14947;Nuthe-Urstromtal;03371 6860;03371 68643;gv@nuthe-urstromtal.de;https://nuthe-urstromtal.de
+12 0 69 454;Gemeinde;Nuthetal;Bürgermeisterin;Frau;Ute Hustig;Arthur-Scheunert-Allee 103;14558;Nuthetal;033200 2040;033200 20 444;gemeindeverwaltung@nuthetal.de;https://www.nuthetal.de
+12 0 65 000;Landkreis;Oberhavel;Landrat;Herr;Ludger Weskamp;Adolf-Dechert-Straße 1;16515;Oranienburg;03301 601-0;03301 601-111;info@oberhavel.de;https://www.oberhavel.de
+12 0 65 251;Gemeinde;Oberkrämer;Bürgermeister;Herr;Peter Leys;Perwenitzer Weg 2;16727;Oberkrämer;03304 39320;03304 393239;info@oberkraemer.de;https://www.oberkraemer.de
+12 0 66 000;Landkreis;Oberspreewald-Lausitz;Landrat;Herr;Siegurd Heinze;Dubinaweg 1;01968;Senftenberg;03573 870-0;03573 870-1010;pressestelle@osl-online.de;http://www.osl-online.de
+12 0 67 000;Landkreis;Oder-Spree;Landrat;Herr;Rolf Lindemann;Breitscheidstraße 7;15848;Beeskow;03366 35-0;03366 35-1111;buero.landrat@l-os.de;https://www.landkreis-oder-spree.de
+12 0 73 000 10;Amt;Oder-Welse;Amtsdirektor;Herr;Detlef Krause;Gutshof 1;16278;Pinnow;033335 7190;033335 71940;ad@amt-oder-welse.de;https://www.amt-oder-welse.de
+12 0 67 000 06;Amt;Odervorland;Amtsdirektorin;Frau;Marlen Rost;Bahnhofstraße 3-4;15518;Briesen (Mark);033607 8970;033607 89799;amt-odervorland@t-online.de;https://www.amt-odervorland.de
+12 0 65 256;Stadt;Oranienburg;Bürgermeister;Herr;Alexander Laesicke;Schloßplatz 1;16515;Oranienburg;03301 6005;03301 600999;info@oranienburg.de;https://www.oranienburg.de
+12 0 66 000 06;Amt;Ortrand;Amtsdirektor;Herr;Kersten Sickert;Altmarkt 1;01990;Ortrand;035755 605217;035755 605230;post@amt-ortrand.de;https://www.amt-ortrand.de/
+12 0 68 000;Landkreis;Ostprignitz-Ruppin;Landrat;Herr;Ralf Reinhardt ;Virchowstraße 14-16;16816;Neuruppin;03391 688-0;03391 3239;kreisverwaltung@opr.de;https://www.ostprignitz-ruppin.de
+12 0 60 181;Gemeinde;Panketal;Bürgermeister;Herr;Maximilian Wonke;Schönower Straße 105;16341;Panketal;030 945110;030 94511199;info@panketal.de;https://www.panketal.de
+12 0 71 000 07;Amt;Peitz;Amtsdirektorin;Frau;Elvira Hölzner;Schulstraße 6;03185;Peitz;035601 380;035601 38170;peitz@peitz.de;http://www.peitz.de
+12 0 70 296;Stadt;Perleberg;Bürgermeisterin;Frau;Annett Jura;Großer Markt;19348;Perleberg;03876 7810;03876 781180;buergermeisterin@stadt-perleberg.de;https://www.stadt-perleberg.de
+12 0 64 380;Gemeinde;Petershagen/Eggersdorf;Bürgermeister;Herr;Marco Rutter;Am Markt 8;15345;Petershagen/Eggersdorf;03341 41490;03341 414999;post@petershagen-eggersdorf.de;http://www.petershagen-eggersdorf.de
+12 0 70 302;Gemeinde;Plattenburg;Bürgermeisterin;Frau;Anja Kramer;Dorfstraße 52a;19339;Plattenburg, OT Kletzke;038796 5990;038796 59933;prignitz@gemeinde-plattenburg.de;http://www.plattenburg.de
+12 0 62 000 07;Amt;Plessa;Amtsdirektor;Herr;Göran Schrey;Steinweg 6;04928;Plessa;03533 48060;03533 5213;amtplessa@t-online.de;https://www.plessa.de
+12 0 54 000;Landeshauptstadt;Potsdam;Oberbürgermeister;Herr;Mike Schubert;Friedrich-Ebert-Straße 79-81;14469;Potsdam;0331 289-0;0331 289-1155;poststelle@rathaus.potsdam.de;https://www.potsdam.de
+12 0 69 000;Landkreis;Potsdam-Mittelmark;Landrat;Herr;Wolfgang Blasig;Niemöllerstraße 1;14806;Bad Belzig;033841 91-0;033841 91-242;info@potsdam-mittelmark.de;https://www.potsdam-mittelmark.de
+12 0 63 244;Stadt;Premnitz;Bürgermeister;Herr;Ralf Tebling;Gerhart-Hauptmann-Str. 3;14727;Premnitz;03386 2590;03386 259111;stadt@premnitz.de;https://www.premnitz.de
+12 0 73 452;Stadt;Prenzlau;Bürgermeister;Herr;Hendrik Sommer;Am Steintor 4;17291;Prenzlau;03984 75-0;03984 75-190;stadtverwaltung@prenzlau.de;https://www.prenzlau.eu
+12 0 70 000;Landkreis;Prignitz;Landrat;Herr;Torsten Uhe;Berliner Straße 49;19348;Perleberg;03876 713-0;03876 713-214;info@lkprignitz.de;https://www.landkreis-prignitz.de
+12 0 70 316;Stadt;Pritzwalk;Bürgermeister;Herr;Dr. Ronald Thiel;Marktstraße 39;16928;Pritzwalk;03395 76080;03395 760814;stadt@pritzwalk.de;https://www.pritzwalk.de
+12 0 70 000 09;Amt;Putlitz-Berge;Amtsdirektor;Herr;Hergen Reker;Zur Burghofwiese 2;16949;Putlitz;033981 8370;033981 80671;mail@amtputlitz-berge.de;http://www.amtputlitz-berge.de
+12 0 72 340;Gemeinde;Rangsdorf;Bürgermeister;Herr;Klaus Rocher;Seebadallee 30;15834;Rangsdorf;033708 2360;033708 23621;gemeindeverwaltung@gv-rangsdorf.de;https://www.rangsdorf.de
+12 0 63 252;Stadt;Rathenow;Bürgermeister;Herr;Ronald Seeger;Berliner Straße 15;14712;Rathenow;03385 5960;03385 596120;poststelle@stadt-rathenow.de;https://www.rathenow.de
+12 0 68 353;Stadt;Rheinsberg;Bürgermeister;Herr;Frank-Rudi Schwochow;Seestraße 21;16831;Rheinsberg;033931 55101;033931 55250;buergermeister@rheinsberg.de;https://www.rheinsberg.de
+12 0 63 000 09;Amt;Rhinow;Amtsdirektor;Herr;Jens Aasmann;Lilienthalstraße 3;14728;Rhinow;033875 366-0;033875 36666;amtsdirektor@rhinow.de;http://www.rhinow.de
+12 0 67 426;Gemeinde;Rietz-Neuendorf;Bürgermeisterin;Frau;Bettina Züge (stellvertretend);Fürstenwalder Straße 1;15848;Rietz-Neuendorf;033672 6080;033672 60829;info@rietz-neuendorf.de;https://www.rietz-neuendorf.de
+12 0 62 410;Gemeinde;Röderland;Bürgermeister;Herr;Markus Terne;Am Markt 1;04932;Röderland ;03533 48380;03533 483834;info@gemeinde-roederland.de;https://www.gemeinde-roederland.de
+12 0 64 428;Gemeinde;Rüdersdorf bei Berlin;Bürgermeisterin;Frau;Sabine Löser;Hans-Striegelski-Straße 5;15562;Rüdersdorf bei Berlin;033638 850;033638 2602;info@ruedersdorf.de;https://www.ruedersdorf.de
+12 0 66 000 07;Amt;Ruhland;Amtsdirektor;Herr;Christian Konzack;Rudolf-Breitscheid-Straße 4;01945;Ruhland;035752 3720;035752 2097;amt@amt-ruhland.de;https://www.amt-ruhland.de
+12 0 67 000 07;Amt;Scharmützelsee;Amtsdirektor;Herr;Christian Riecke;Forsthausstraße 4;15526;Bad Saarow;033631 45-141;033631 45-1811;post@amt-scharmuetzelsee.de;https://www.amt-scharmuetzelsee.de
+12 0 71 337;Gemeinde;Schenkendöbern;Bürgermeister;Herr;Ralph Homeister;Gemeindeallee 45;03172;Schenkendöbern;03561 55620;03561 556262;gemeinde@schenkendoebern.de;https://www.schenkendoebern.de
+12 0 61 000 08;Amt;Schenkenländchen;Amtsdirektor;Herr;Oliver Theel (amtierend);Markt 9;15755;Teupitz;033766 689-0;033766 689-58;sekretariat@amt-schenkenlaendchen.de;http://www.amt-schenkenlaendchen.de
+12 0 66 285;Gemeinde;Schipkau;Bürgermeister;Herr;Klaus Prietzel;Schulstraße 4;01998;Schipkau;035754 36030;035754 36032;info@gemeinde-schipkau.de;http://www.gemeinde-schipkau.de
+12 0 67 000 08;Amt;Schlaubetal;Amtsdirektor;Herr;Patrick Grunow (stellvertretend);Bahnhofstraße 40;15299;Müllrose;033606 8990;033606 89933;post@amt-schlaubetal.de;https://www.amt-schlaubetal.de
+12 0 62 000 09;Amt;Schlieben;Amtsdirektor;Herr;Andreas Polz;Herzberger Straße 7;04936;Schlieben;035361 3560;035361 35630;amt-schlieben@t-online.de;https://www.amt-schlieben.de
+12 0 61 433;Gemeinde;Schönefeld;Bürgermeister;Herr;Christian Hentschel;Hans-Grade-Allee 11;12529;Schönefeld;030 5367200;030 53672080;gemeinde@gemeinde-schoenefeld.de;https://www.gemeinde-schoenefeld.de
+12 0 67 440;Gemeinde;Schöneiche bei Berlin;Bürgermeister;Herr;Ralf Steinbrück;Dorfaue 1;15566;Schöneiche bei Berlin;030 643304-0;030 643304-155;info@schoeneiche.de;https://www.schoeneiche.de
+12 0 62 461;Stadt;Schönewalde;Bürgermeister;Herr;Michael Stawski;Markt 48;04916;Schönewalde;035362 74330;035362 743340;info@schoenewalde.de;http://www.schoenewalde.de
+12 0 63 273;Gemeinde;Schönwalde-Glien;Bürgermeister;Herr;Bodo Oehme;Berliner Allee 7;14621;Schönwalde-Glien;03322 24840;03322 248440;rathaus@schoenwalde-glien.de ;http://www.gemeinde-schoenwalde-glien.de
+12 0 60 198;Gemeinde;Schorfheide;Bürgermeister;Herr;Wilhelm Westerkamp;Erzbergerplatz 1;16244;Schorfheide;03335 453410;03335 453435;kontakt@gemeinde-schorfheide.de;https://www.gemeinde-schorfheide.de
+12 0 62 000 11;Amt;Schradenland;Amtsdirektorin;Frau;Kathleen Wilken (stellvertretend);Großenhainer Straße 25;04932;Gröden;035343 7620;035343 512;amtschradenland@t-online.de;https://www.amt-schradenland.de
+12 0 61 444;Gemeinde;Schulzendorf;Bürgermeister;Herr;Markus Mücke;Richard-Israel-Straße 1;15732;Schulzendorf;033762 431-0;033762  431-66;gemeinde@schulzendorf.de;https://www.schulzendorf.de
+12 0 66 296;Stadt;Schwarzheide;Bürgermeister;Herr;Christoph Schmidt;Ruhlander Straße 102;01987;Schwarzheide;035752 85100;035752 85109;stadtverwaltung@schwarzheide.de;http://www.stadt-schwarzheide.de
+12 0 73 532;Stadt;Schwedt/Oder;Bürgermeister;Herr;Jürgen Polzehl;Dr.-Theodor-Neubauer-Straße 5;16303;Schwedt/Oder;03332 4460;03332 22116;stadt@schwedt.de;https://www.schwedt.eu 
+12 0 69 590;Gemeinde;Schwielowsee;Bürgermeisterin;Frau;Kerstin Hoppe;Potsdamer Platz 9;14548;Schwielowsee;033209 7690;033209 76940;gemeinde@schwielowsee.de;https://www.schwielowsee.de
+12 0 69 596;Gemeinde;Seddiner See;Bürgermeister;Herr;Axel Zinke;Kiefernweg 5;14554;Seddiner See;033205 5360;033205 53627;info@seddiner-see.de;https://www.seddiner-see.de
+12 0 64 448;Stadt;Seelow;Bürgermeister;Herr;Jörg Schröder;Küstriner Straße 61;15306;Seelow;03346 8020;03346 802200;info@seelow.de;https://www.seelow.de
+12 0 64 000 12;Amt;Seelow-Land;Amtsdirektorin;Frau;Roswitha Thiede;Küstriner Straße 67;15306;Seelow;03346 804920;03346 88805;info@amt-seelow-land.de;https://www.amt-seelow-land.de
+12 0 66 304;Stadt;Senftenberg;Bürgermeister;Herr;Andreas Fredrich;Markt 1;01968;Senftenberg;03573 7010;03573 701-107;info@senftenberg.de;https://www.senftenberg.de
+12 0 62 469;Stadt;Sonnewalde;Bürgermeister;Herr;Felix Freitag;Schulstraße 3;03249;Sonnewalde;035323 6310;035323 63112;stadt-sonnewalde@t-online.de;https://www.stadt-sonnewalde.de
+12 0 71 000;Landkreis;Spree-Neiße;Landrat;Herr;Harald Altekrüger;Heinrich-Heine-Straße 1;03149;Forst (Lausitz);03562 986-0;03562 986-10088;info@lkspn.de;https://www.lkspn.de
+12 0 67 000 09;Amt;Spreenhagen;Amtsdirektor;Herr;Hans-Joachim Schröder;Hauptstraße 13;15528;Spreenhagen;033633 8710;033633 87135;post@amt-spreenhagen.de;http://www.amt-spreenhagen.de
+12 0 71 372;Stadt;Spremberg;Bürgermeisterin;Frau;Christine Herntier;Am Markt 1;03130;Spremberg;03563 340 102;03563 2506;buergermeisterin@stadt-spremberg.de;https://stadt-spremberg.de
+12 0 69 604;Gemeinde;Stahnsdorf;Bürgermeister;Herr;Bernd Albers;Annastraße 3;14532;Stahnsdorf;03329 646103;03329 646130;gemeinde@stahnsdorf.de;http://www.stahnsdorf.de
+12 0 67 481;Stadt;Storkow (Mark);Bürgermeisterin;Frau; Cornelia Schulze-Ludwig;Rudolf-Breitscheid-Straße 74;15859;Storkow (Mark);033678 683;033678 68444;sekretariat@storkow.de;https://www.storkow-mark.de
+12 0 64 472;Stadt;Strausberg;Bürgermeisterin;Frau;Elke Stadeler;Hegermühlenstraße 58;15344;Strausberg;03341 3810;03341 381430;info@stadt-strausberg.de;https://www.stadt-strausberg.de
+12 0 67 493;Gemeinde;Tauche;Bürgermeister;Herr;Gerd Mai;Beeskower Chaussee 70;15848;Tauche;033675 609-0;033675 609-39;info@gemeinde-tauche.de;http://www.gemeinde-tauche.de
+12 0 69 616;Stadt;Teltow;Bürgermeister;Herr;Thomas Schmidt;Marktplatz 1-3;14513;Teltow;03328 4781-0;03328 4781-191;stadt-teltow@teltow.de;https://www.teltow.de
+12 0 72 000;Landkreis;Teltow-Fläming;Landrätin;Frau;Kornelia Wehlan;Am Nuthefließ 2;14943;Luckenwalde;03371 608-0;03371 608-9000;info@teltow-flaeming.de ;http://www.teltow-flaeming.de
+12 0 68 000 07;Amt;Temnitz;Amtsdirektor;Herr;Thomas Kresse;Bergstraße 2;16818;Walsleben;033920 6750;033920 67516;info@amt-temnitz.de;https://www.amt-temnitz.de
+12 0 73 572;Stadt;Templin;Bürgermeister;Herr;Detlef Tabbert;Prenzlauer Allee 7;17268;Templin;03987 20300;03987 2030104;buergermeister@templin.de;https://www.templin.de
+12 0 72 426;Stadt;Trebbin;Bürgermeister;Herr;Thomas Berger;Markt 1-3;14959;Trebbin;033731 8420;033731 84257;rathaus@stadt-trebbin.de;https://www.stadt-trebbin.de
+12 0 69 632;Stadt;Treuenbrietzen;Bürgermeister;Herr;Michael Knape;Großstraße 105;14929;Treuenbrietzen;033748 7470;033748 74780;info@treuenbrietzen.de;https://www.treuenbrietzen.de
+12 0 73 579;Gemeinde;Uckerland;Bürgermeister;Herr;Matthias Schilling;Hauptstraße 35;17337;Uckerland;039745 8610;039745 86155;gemeinde@uckerland.de;http://www.uckerland.de
+12 0 73 000;Landkreis;Uckermark;Landrätin;Frau;Karina Dörk;Karl-Marx-Straße 1;17291;Prenzlau;03984 70-0;03984 70-4099;landkreis@uckermark.de;https://www.uckermark.de
+12 0 61 000 14;Amt;Unterspreewald;Amtsdirektor;Herr;Henri Urchs;Markt 1;15938;Golßen;035452 384-112;035452 384-24;amtsdirektor@unterspreewald.de;https://www.unterspreewald.de
+12 0 65 332;Stadt;Velten;Bürgermeisterin;Frau;Ines Hübner;Rathausstraße 10;16727;Velten;03304 379222;03304 379221;rathaus@velten.de;https://www.velten.de
+12 0 66 320;Stadt;Vetschau/Spreewald;Bürgermeister;Herr;Bengt Kanzler;Schlossstraße 10;03226;Vetschau/Spreewald;035433 777-0;035433 777-9010;stadtverwaltung@vetschau.com;https://stadt.vetschau.de
+12 0 60 269;Gemeinde;Wandlitz;Bürgermeister;Herr;Oliver Borchert;Prenzlauer Chaussee 157;16348;Wandlitz;033397 660;033397 66116;gemeinde@wandlitz.de;https://www.wandlitz.de
+12 0 71 408;Stadt;Welzow;Bürgermeisterin;Frau;Birgit Zuchold;Poststraße 8;03119;Welzow;035751  250-12;035751 250-22;info@welzow.de;https://www.welzow.de
+12 0 69 656;Stadt;Werder (Havel);Bürgermeisterin;Frau;Manuela Saß;Eisenbahnstraße 13-14;14542;Werder (Havel);03327 7830;03327 44385;poststelle@werder-havel.de;https://www.werder-havel.de
+12 0 60 280;Stadt;Werneuchen;Bürgermeister;Herr;Frank Kulicke;Am Markt 5;16356;Werneuchen;033398 81610;033398 90418;postfach@werneuchen.de;http://www.werneuchen-barnim.de
+12 0 69 665;Gemeinde;Wiesenburg/Mark;Bürgermeister;Herr;Marco Beckendorf;Schlossstraße 1;14827;Wiesenburg/Mark;033849 7980;033849 79855;gemeinde@wiesenburgmark.de;https://www.wiesenburgmark.de
+12 0 61 540;Stadt;Wildau;Bürgermeisterin;Frau;Angela Homuth;Karl-Marx-Straße 36;15745;Wildau;03375 505410;03375 505471;stadt@wildau.de;https://www.wildau.de
+12 0 70 424;Stadt;Wittenberge;Bürgermeister;Herr;Dr. Oliver Hermann ;August-Bebel-Straße 10;19322;Wittenberge;03877 951-0;03877 951-123;stadt@wittenberge.de;https://www.wittenberge.de
+12 0 68 468;Stadt;Wittstock/Dosse;Bürgermeister;Herr;Jörg Gehrmann;Markt 1;16909;Wittstock/Dosse;03394 4290;03394 429102;buergermeister@wittstock.de ;https://www.wittstock.de
+12 0 67 544;Gemeinde;Woltersdorf;Bürgermeisterin;Frau;Margitta Decker;Rudolf-Breitscheid-Straße 23;15569;Woltersdorf;03362 58690;03362 5149;sekretariat@gemeinde-woltersdorf.de;https://www.woltersdorf-schleuse.de
+12 0 64 512;Stadt;Wriezen;Bürgermeister;Herr;Karsten Ilm;Freienwalder Straße 50;16269;Wriezen;033456 49100;033456 49400;stadtverwaltung@wriezen.de;https://www.wriezen.de
+12 0 68 477;Gemeinde;Wusterhausen/Dosse;Bürgermeister;Herr;Philipp Schulz;Schulstraße 1;16868;Wusterhausen/Dosse;033979 8770;033979 877-40;kontakt@wusterhausen.de;http://www.wusterhausen.de
+12 0 63 357;Gemeinde;Wustermark;Bürgermeister;Herr;Holger Schreiber;Hoppenrader Allee 1;14641;Wustermark;033234 73-0;033234 73-250;info@wustermark.de ;https://www.wustermark.de
+12 0 69 000 17;Amt;Wusterwitz;Amtsdirektor;Herr;Dr. Dominik Lück (m.d.W.d.A.b.);August-Bebel-Straße 10;14789;Wusterwitz;033839 6690;033839 66931;info@amt-wusterwitz.de;https://www.amt-wusterwitz.de
+12 0 65 356;Stadt;Zehdenick;Bürgermeister;Herr;Bert Kronenberg;Falkenthaler Chaussee 1;16792;Zehdenick;03307 46840;03307 4684188;stadtverwaltung@zehdenick.de;https://www.zehdenick.de
+12 0 61 572;Gemeinde;Zeuthen;Bürgermeister;Herr;Sven Herzberger;Schillerstraße 1;15738;Zeuthen;033762 7530;033762 753575;gemeinde@zeuthen.de;https://www.zeuthen.de
+12 0 69 000 18;Amt;Ziesar;Amtsdirektor;Herr;Norbert Bartels;Mühlentor 15 A;14793;Ziesar;033830 6540;033830 282;amt@ziesar.de;https://www.amt-ziesar.de
+12 0 72 477;Stadt;Zossen;Bürgermeisterin;Frau;Wiebke Schwarzweller;Marktplatz 20;15806;Zossen;03377 30400;03377 3040762;Poststelle@SVZossen.Brandenburg.de;https://www.zossen.de

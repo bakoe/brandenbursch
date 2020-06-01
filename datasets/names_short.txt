@@ -1,0 +1,114 @@
+name
+Altlandsberg
+Angermünde
+Bad Belzig
+Bad Freienwalde (Oder)
+Bad Liebenwerda
+Bad Wilsnack
+Baruth/Mark
+Beelitz
+Beeskow
+Bernau bei Berlin
+Biesenthal
+Brandenburg an der Havel
+Brück
+Brüssow
+Buckow (Märkische Schweiz)
+Calau
+CottbusChóśebuz
+Dahme/Mark
+Doberlug-Kirchhain
+Döbern
+DrebkauDrjowk
+Eberswalde
+Eisenhüttenstadt
+Elsterwerda
+Erkner
+Falkenberg/Elster
+Falkensee
+Finsterwalde
+Forst (Lausitz)
+Frankfurt (Oder)
+Friedland
+Friesack
+Fürstenberg/Havel
+Fürstenwalde/Spree
+Gartz (Oder)
+Golßen
+Gransee
+Großräschen
+Guben
+Havelsee
+Hennigsdorf
+Herzberg (Elster)
+Hohen Neuendorf
+Joachimsthal
+Jüterbog
+Ketzin/Havel
+Königs Wusterhausen
+Kremmen
+Kyritz
+Lauchhammer
+Lebus
+Lenzen (Elbe)
+Liebenwalde
+Lieberose
+Lindow (Mark)
+Lübbenau/SpreewaldLubnjow/Błota
+Lübben (Spreewald)
+Luckau
+Luckenwalde
+Ludwigsfelde
+Lychen
+Märkisch Buchholz
+Meyenburg
+Mittenwalde
+Mühlberg/Elbe
+Müllrose
+Müncheberg
+Nauen
+Neuruppin
+Neustadt (Dosse)
+Niemegk
+Oderberg
+Oranienburg
+Ortrand[3]
+PeitzPicnjo
+Perleberg
+Potsdam
+Premnitz
+Prenzlau
+Pritzwalk
+Putlitz
+Rathenow
+Rheinsberg
+Rhinow
+Ruhland
+Schlieben
+Schönewalde
+Schwarzheide
+Schwedt/Oder
+Seelow
+Senftenberg
+Sonnewalde
+SprembergGrodk
+Storkow (Mark)
+Strausberg
+Teltow
+Templin
+Teupitz
+Trebbin
+Treuenbrietzen
+Uebigau-Wahrenbrück
+Velten
+Vetschau/SpreewaldWětošow/Błota
+Welzow
+Werder (Havel)
+Werneuchen
+Wildau
+Wittenberge
+Wittstock/Dosse
+Wriezen
+Zehdenick
+Ziesar
+Zossen
